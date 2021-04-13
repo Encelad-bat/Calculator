@@ -25,6 +25,7 @@
             <Button Grid.Row="1" Grid.Column="0">4</Button>
             <Button Grid.Row="1" Grid.Column="1">5</Button>
             <Button Grid.Row="1" Grid.Column="2">6</Button>
+            <Button Grid.Row="2" Grid.Column="0">7</Button>
         </Grid>
         <Grid Margin="0,360">
             <Grid.ColumnDefinitions>
