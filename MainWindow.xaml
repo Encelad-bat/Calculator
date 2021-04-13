@@ -29,13 +29,13 @@
             <Button Grid.Row="2" Grid.Column="1">8</Button>
             <Button Grid.Row="2" Grid.Column="2">9</Button>
         </Grid>
-        <Grid Margin="0,360">
+        <Grid Margin="0,329,0,0">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition Width="2*"></ColumnDefinition>
             </Grid.ColumnDefinitions>
+            <Button Grid.Row="0" Grid.Column="1">0</Button>
         </Grid>
     </Grid>
 </Window>
