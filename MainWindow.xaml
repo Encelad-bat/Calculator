@@ -20,6 +20,7 @@
                 <RowDefinition></RowDefinition>
             </Grid.RowDefinitions>
             <Button Grid.Row="0" Grid.Column="0">1</Button>
+            <Button Grid.Row="0" Grid.Column="1">2</Button>
         </Grid>
         <Grid Margin="0,360">
             <Grid.ColumnDefinitions>
