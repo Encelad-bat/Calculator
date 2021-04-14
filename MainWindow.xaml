@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Calculator" Height="460" Width="460">
     <Grid>
-        <Grid Margin="0,50,0,100">
+        <Grid Margin="0,50,0,70">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
@@ -18,18 +18,19 @@
                 <RowDefinition></RowDefinition>
                 <RowDefinition></RowDefinition>
                 <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
             </Grid.RowDefinitions>
-            <Button Grid.Row="0" Grid.Column="0">1</Button>
-            <Button Grid.Row="0" Grid.Column="1">2</Button>
-            <Button Grid.Row="0" Grid.Column="2">3</Button>
-            <Button Grid.Row="1" Grid.Column="0">4</Button>
-            <Button Grid.Row="1" Grid.Column="1">5</Button>
-            <Button Grid.Row="1" Grid.Column="2">6</Button>
-            <Button Grid.Row="2" Grid.Column="0">7</Button>
-            <Button Grid.Row="2" Grid.Column="1">8</Button>
-            <Button Grid.Row="2" Grid.Column="2">9</Button>
+            <Button Grid.Row="1" Grid.Column="0">1</Button>
+            <Button Grid.Row="1" Grid.Column="1">2</Button>
+            <Button Grid.Row="1" Grid.Column="2">3</Button>
+            <Button Grid.Row="2" Grid.Column="0">4</Button>
+            <Button Grid.Row="2" Grid.Column="1">5</Button>
+            <Button Grid.Row="2" Grid.Column="2">6</Button>
+            <Button Grid.Row="3" Grid.Column="0">7</Button>
+            <Button Grid.Row="3" Grid.Column="1">8</Button>
+            <Button Grid.Row="3" Grid.Column="2">9</Button>
         </Grid>
-        <Grid Margin="0,329,0,0">
+        <Grid Margin="0,359,0,0">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
