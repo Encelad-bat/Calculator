@@ -29,6 +29,7 @@
             <Button Grid.Row="3" Grid.Column="0">7</Button>
             <Button Grid.Row="3" Grid.Column="1">8</Button>
             <Button Grid.Row="3" Grid.Column="2">9</Button>
+            <Button Grid.Row="0" Grid.Column="1">C</Button>
         </Grid>
         <Grid Margin="0,359,0,0">
             <Grid.ColumnDefinitions>
