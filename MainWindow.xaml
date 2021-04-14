@@ -36,13 +36,14 @@
             <Button Grid.Row="1" Grid.Column="3">*</Button>
             <Button Grid.Row="0" Grid.Column="3">/</Button>
         </Grid>
-        <Grid Margin="0,359,0,0">
+        <Grid Margin="0,351,0,0">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition Width="2*"></ColumnDefinition>
             </Grid.ColumnDefinitions>
             <Button Grid.Row="0" Grid.Column="1">0</Button>
+            <Button Grid.Row="0" Grid.Column="2">=</Button>
         </Grid>
     </Grid>
 </Window>
